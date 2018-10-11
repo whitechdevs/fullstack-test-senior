@@ -17,13 +17,13 @@ Your task is to build a ReactJS and NodeJS powered application to:
 - Good component structure
 - Should be responsive
 - Good code quality
-- 100% Test coverage
+- High Test coverage
 - ES6 +
 
 ### Node
 - Webpack (preferably)
 - Express
-- 100% Test coverage
+- High Test coverage
 - ES6 +
 - API should return the list of products in products.json
 
@@ -34,6 +34,7 @@ Your task is to build a ReactJS and NodeJS powered application to:
 
 Use a starter kit of your choice.
 Feel free to use npm packages to help you achieve a result.
+Feel free to also document your approach, any shortcomings and concerns that you encountered during the process, though this is not a mandatory requirement, it helps us better understand your thought process.
 
 ## Deliverable
 
