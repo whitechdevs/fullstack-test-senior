@@ -28,7 +28,7 @@ Your task is to build a ReactJS and NodeJS powered application to:
 - Express
 - High Test coverage
 - ES6 +
-- API should return the list of products in products.json
+- API should return the list of products available in the products.json - setting up correct data models and layers (use your choice of DB)
 
 ### Bonus
 - Dockerised application
