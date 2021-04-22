@@ -15,12 +15,13 @@ Your task is to build a ReactJS and NodeJS powered application to:
 ## Requirements
 
 ### React
+- Usage of hooks
 - Redux for state management
-- React Router 4
+- React Router 5
 - Good component structure
 - Should be responsive
 - Good code quality
-- High Test coverage
+- High Test coverage (Optional)
 - ES6 +
 
 ### Node
@@ -50,3 +51,11 @@ yarn
 yarn test
 yarn start
 ```
+
+## Assessment Criteria
+
+- Functionality
+- Code quality
+- Structure
+- Understanding of Javascript
+- Tests
